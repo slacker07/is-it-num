@@ -1,0 +1,25 @@
+{
+  "name": "is-it-num",
+  "version": "1.0.0",
+  "description": "Checks whether the given data is a number",
+  "homepage": "https://github.com/slacker07/is-it-num",
+  "repository": "slacker07/is-it-num",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "number",
+    "is-num",
+    "lazy"
+  ],
+  "author": "Aravinda Bhat",
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "mocha": "^6.1.4"
+  }
+}
